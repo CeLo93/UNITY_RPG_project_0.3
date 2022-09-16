@@ -1,0 +1,4 @@
+repository "RPGproject@c3_lu@cloud"
+  path "/"
+    br "/main"
+    co "/main"

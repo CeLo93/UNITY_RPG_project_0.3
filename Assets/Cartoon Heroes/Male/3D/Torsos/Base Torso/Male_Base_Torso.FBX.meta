@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 0785e19d7558bf542ac3ec73faaf7709
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Character
+  - first:
+      1: 100004
+    second: Character Head
+  - first:
+      1: 100006
+    second: Character L Clavicle
+  - first:
+      1: 100008
+    second: Character L Finger0
+  - first:
+      1: 100010
+    second: Character L Finger01
+  - first:
+      1: 100012
+    second: Character L Finger02
+  - first:
+      1: 100014
+    second: Character L Finger1
+  - first:
+      1: 100016
+    second: Character L Finger11
+  - first:
+      1: 100018
+    second: Character L Finger12
+  - first:
+      1: 100020
+    second: Character L Finger2
+  - first:
+      1: 100022
+    second: Character L Finger21
+  - first:
+      1: 100024
+    second: Character L Finger22
+  - first:
+      1: 100026
+    second: Character L Finger3
+  - first:
+      1: 100028
+    second: Character L Finger31
+  - first:
+      1: 100030
+    second: Character L Finger32
+  - first:
+      1: 100032
+    second: Character L Finger4
+  - first:
+      1: 100034
+    second: Character L Finger41
+  - first:
+      1: 100036
+    second: Character L Finger42
+  - first:
+      1: 100038
+    second: Character L Forearm
+  - first:
+      1: 100040
+    second: Character L Hand
+  - first:
+      1: 100042
+    second: Character L UpperArm
+  - first:
+      1: 100044
+    second: Character Neck
+  - first:
+      1: 100046
+    second: Character Pelvis
+  - first:
+      1: 100048
+    second: Character R Clavicle
+  - first:
+      1: 100050
+    second: Character R Finger0
+  - first:
+      1: 100052
+    second: Character R Finger01
+  - first:
+      1: 100054
+    second: Character R Finger02
+  - first:
+      1: 100056
+    second: Character R Finger1
+  - first:
+      1: 100058
+    second: Character R Finger11
+  - first:
+      1: 100060
+    second: Character R Finger12
+  - first:
+      1: 100062
+    second: Character R Finger2
+  - first:
+      1: 100064
+    second: Character R Finger21
+  - first:
+      1: 100066
+    second: Character R Finger22
+  - first:
+      1: 100068
+    second: Character R Finger3
+  - first:
+      1: 100070
+    second: Character R Finger31
+  - first:
+      1: 100072
+    second: Character R Finger32
+  - first:
+      1: 100074
+    second: Character R Finger4
+  - first:
+      1: 100076
+    second: Character R Finger41
+  - first:
+      1: 100078
+    second: Character R Finger42
+  - first:
+      1: 100080
+    second: Character R Forearm
+  - first:
+      1: 100082
+    second: Character R Hand
+  - first:
+      1: 100084
+    second: Character R UpperArm
+  - first:
+      1: 100086
+    second: Character Spine
+  - first:
+      1: 100088
+    second: Character Spine1
+  - first:
+      1: 100090
+    second: Character Spine2
+  - first:
+      1: 100092
+    second: Male Base Torso
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Character
+  - first:
+      4: 400004
+    second: Character Head
+  - first:
+      4: 400006
+    second: Character L Clavicle
+  - first:
+      4: 400008
+    second: Character L Finger0
+  - first:
+      4: 400010
+    second: Character L Finger01
+  - first:
+      4: 400012
+    second: Character L Finger02
+  - first:
+      4: 400014
+    second: Character L Finger1
+  - first:
+      4: 400016
+    second: Character L Finger11
+  - first:
+      4: 400018
+    second: Character L Finger12
+  - first:
+      4: 400020
+    second: Character L Finger2
+  - first:
+      4: 400022
+    second: Character L Finger21
+  - first:
+      4: 400024
+    second: Character L Finger22
+  - first:
+      4: 400026
+    second: Character L Finger3
+  - first:
+      4: 400028
+    second: Character L Finger31
+  - first:
+      4: 400030
+    second: Character L Finger32
+  - first:
+      4: 400032
+    second: Character L Finger4
+  - first:
+      4: 400034
+    second: Character L Finger41
+  - first:
+      4: 400036
+    second: Character L Finger42
+  - first:
+      4: 400038
+    second: Character L Forearm
+  - first:
+      4: 400040
+    second: Character L Hand
+  - first:
+      4: 400042
+    second: Character L UpperArm
+  - first:
+      4: 400044
+    second: Character Neck
+  - first:
+      4: 400046
+    second: Character Pelvis
+  - first:
+      4: 400048
+    second: Character R Clavicle
+  - first:
+      4: 400050
+    second: Character R Finger0
+  - first:
+      4: 400052
+    second: Character R Finger01
+  - first:
+      4: 400054
+    second: Character R Finger02
+  - first:
+      4: 400056
+    second: Character R Finger1
+  - first:
+      4: 400058
+    second: Character R Finger11
+  - first:
+      4: 400060
+    second: Character R Finger12
+  - first:
+      4: 400062
+    second: Character R Finger2
+  - first:
+      4: 400064
+    second: Character R Finger21
+  - first:
+      4: 400066
+    second: Character R Finger22
+  - first:
+      4: 400068
+    second: Character R Finger3
+  - first:
+      4: 400070
+    second: Character R Finger31
+  - first:
+      4: 400072
+    second: Character R Finger32
+  - first:
+      4: 400074
+    second: Character R Finger4
+  - first:
+      4: 400076
+    second: Character R Finger41
+  - first:
+      4: 400078
+    second: Character R Finger42
+  - first:
+      4: 400080
+    second: Character R Forearm
+  - first:
+      4: 400082
+    second: Character R Hand
+  - first:
+      4: 400084
+    second: Character R UpperArm
+  - first:
+      4: 400086
+    second: Character Spine
+  - first:
+      4: 400088
+    second: Character Spine1
+  - first:
+      4: 400090
+    second: Character Spine2
+  - first:
+      4: 400092
+    second: Male Base Torso
+  - first:
+      21: 2100000
+    second: Male_Base_Torso
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Male Base Torso
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Male Base Torso
+  - first:
+      43: 4300000
+    second: Male Base Torso
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Male Base Torso
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Male_Base_Torso
+    second: {fileID: 2100000, guid: ac1c2d6fecc6e3b4c95808616cac1d39, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

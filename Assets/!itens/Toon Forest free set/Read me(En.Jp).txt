@@ -1,0 +1,55 @@
+The prefabricated data made with FBX data of a low polygon is included.
+
+
+
+■ object.
+1. 3 kinds of stump and mushroom
+2. Floral A (2 color finite difference)
+3. Floral B (2 color finite difference)
+4. Grass of alpha of a cross
+5. 2 colors of weed of alpha
+6. The grass from which alpha grows lengthwise
+7. Ivy plant
+8. Pteridophyte
+9. Flower of alpha
+10. Crane
+
+
+Support is unity after 5.3.4.
+It's necessary to change setting of Wright and Schaeder in case of unity4.
+I'm waiting for evaluation, a comment and a requirement.
+When there are a lot of requests, the part of the pay edition is made an update of a free edition.
+
+SupportEmaill
+rainesyun@hotmail.co.jp
+
+
+
+
+※以下日本語同じ文章
+
+ローポリゴンのFBXデータで作られた、プレハブデータが入ってます。
+
+
+
+■object
+1.切り株ときのこ3種
+2.花A(2色差分)
+3.花B(2色差分)
+4.十字のアルファの草
+5.アルファの雑草2色
+6.アルファの縦に生えてる草
+7.ツタ植物
+8.シダ植物
+9.アルファの花
+10.ツル
+
+
+サポートはunity5.3.4以降です。
+unity4の場合はライトとシェーダーの設定を変える必要があります。
+評価やコメント、リクエストお待ちしております。
+リクエストが多ければ有料版の一部を無料版のアップデート
+に入れます。
+
+SupportEmaill
+rainesyun@hotmail.co.jp
