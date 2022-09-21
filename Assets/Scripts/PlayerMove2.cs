@@ -54,7 +54,7 @@ public class PlayerMove2 : MonoBehaviour
         character.Move(Time.deltaTime * velocidade * inputs.normalized);
         character.Move(Vector3.down.normalized * Time.deltaTime);
 
-        if (inputs == Vector3.zero)
+        if (inputs != Vector3.zero)
         {
             animator.SetBool("andando", true);
             transform.forward = Vector3.Slerp(transform.forward.normalized, inputs, Time.deltaTime * 10);
